@@ -1,5 +1,5 @@
 # Blender-Animaze-Model-Export
-This is a Blender add-on that creates a an export menu for easily exporting a model in the format used for Animaze.
+This is a Blender add-on that creates an export menu for easily exporting a model in the format used for Animaze.
 
 This script was originally written by Agon Aion to be used in Blender 2.93.0 in order to help those developping models for Animaze.
 
